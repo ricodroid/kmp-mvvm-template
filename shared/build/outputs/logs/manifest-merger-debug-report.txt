@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/zara/Workspace/EmojiHub/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16562970533155975988.xml:2:13-83
-INJECTED from /Users/zara/Workspace/EmojiHub/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16562970533155975988.xml:2:13-83
+ADDED from /Users/riko/projects/kmp/Kotlin-MultiPlatform-Mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6481415238700634682.xml:2:13-83
+INJECTED from /Users/riko/projects/kmp/Kotlin-MultiPlatform-Mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6481415238700634682.xml:2:13-83
 	package
-		INJECTED from /Users/zara/Workspace/EmojiHub/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16562970533155975988.xml
+		INJECTED from /Users/riko/projects/kmp/Kotlin-MultiPlatform-Mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6481415238700634682.xml
 	xmlns:android
-		ADDED from /Users/zara/Workspace/EmojiHub/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16562970533155975988.xml:2:23-81
+		ADDED from /Users/riko/projects/kmp/Kotlin-MultiPlatform-Mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6481415238700634682.xml:2:23-81
 uses-sdk
-INJECTED from /Users/zara/Workspace/EmojiHub/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16562970533155975988.xml reason: use-sdk injection requested
-INJECTED from /Users/zara/Workspace/EmojiHub/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16562970533155975988.xml
-INJECTED from /Users/zara/Workspace/EmojiHub/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16562970533155975988.xml
+INJECTED from /Users/riko/projects/kmp/Kotlin-MultiPlatform-Mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6481415238700634682.xml reason: use-sdk injection requested
+INJECTED from /Users/riko/projects/kmp/Kotlin-MultiPlatform-Mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6481415238700634682.xml
+INJECTED from /Users/riko/projects/kmp/Kotlin-MultiPlatform-Mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6481415238700634682.xml
 	android:targetSdkVersion
-		INJECTED from /Users/zara/Workspace/EmojiHub/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16562970533155975988.xml
+		INJECTED from /Users/riko/projects/kmp/Kotlin-MultiPlatform-Mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6481415238700634682.xml
 	android:minSdkVersion
-		INJECTED from /Users/zara/Workspace/EmojiHub/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16562970533155975988.xml
+		INJECTED from /Users/riko/projects/kmp/Kotlin-MultiPlatform-Mobile/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6481415238700634682.xml
